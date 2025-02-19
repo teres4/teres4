@@ -1,11 +1,10 @@
 ## Hi there
-![da3f7768228ce1f4fc5afc9da1999f49](https://github.com/teres4/teres4/assets/113646136/95ce4298-245a-4655-8dfb-12404c57101c)
 
-* Im Teresa, im from Azores but Im currently in Lisbon studying CSE!
-* Im a 3rd year student at IST
-* I like computers, games, music, drawing and creating in general
+* 😄 I'm Teresa, I'm from the Azores but living in Lisbon studying CSE!
+* ⚡ 3rd year student at IST
+* 🔭 I like computers, games, learning and creating in general
 
-
+![da3f7768228ce1f4fc5afc9da1999f49](https://i.pinimg.com/originals/04/47/b8/0447b89ba217befb613b52b8a234d5f4.gif)
 <!--
 **teres4/teres4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
