@@ -1,7 +1,7 @@
 ## Hi there
 
 * 😄 I'm Teresa, I'm from the Azores but living in Lisbon studying CSE!
-* ⚡ 3rd year student at IST
+* ⚡ I'm curently doing my **CSE Masters @ IST** with a focus on CyberSecurity
 * 🔭 I like computers, games, learning and creating in general
 
 ![da3f7768228ce1f4fc5afc9da1999f49](https://i.pinimg.com/originals/04/47/b8/0447b89ba217befb613b52b8a234d5f4.gif)
